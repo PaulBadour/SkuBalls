@@ -1,2 +1,5 @@
 # SkuBalls
-A version of LarkinLogs, another project I work on, designed for baseball and the Detroit Tigers
+
+
+This repo is no longer used
+Current repo for the project is at https://github.com/ConnorJohnson2912/Skuballs
